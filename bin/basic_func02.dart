@@ -4,5 +4,6 @@ String func(){
 
 //  Return the value "Hello World"
 void main() {
-  print(func());
+  print(func())
+  ;
 }

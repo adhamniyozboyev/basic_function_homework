@@ -4,5 +4,6 @@ int func(){
 
 //  Return the value 0
 void main() {
-  print(func());
+  print(func())
+  ;
 }

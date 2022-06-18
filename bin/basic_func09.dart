@@ -6,4 +6,5 @@ return a-1;
 //  Create function arguments a.
 
 //  decrease the value of a to one and return
-void main() {print(func(6));}
+void main() {print(func(6));
+}

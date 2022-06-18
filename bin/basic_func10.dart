@@ -5,5 +5,6 @@ int func(a){
 //  Create function arguments a.
 
 //  Return the negative value of a.
-void main() {print(func(6));
+void main() {print(func(6))
+;
 }

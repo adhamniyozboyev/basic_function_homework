@@ -5,5 +5,6 @@
 
 // Return the value "codeschooluz"
 void main() {
-  print(func());
+  print(func())
+  ;
 }

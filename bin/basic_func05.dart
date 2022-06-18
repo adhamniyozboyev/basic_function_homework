@@ -3,4 +3,5 @@ double func(){
 }// Create a function called func.
 
 // Return the value double type.
-void main() {print(func());}
+void main() {print(func())
+;}
