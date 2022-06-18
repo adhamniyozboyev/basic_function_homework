@@ -1,5 +1,5 @@
 int func(a){
-  return a+2;
+  return a+1;
 }//  Create a function called func.
 
 //  Create function arguments a.
